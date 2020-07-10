@@ -1,6 +1,6 @@
 # 网易云音乐升级
 
-调用官方接口，每天自动刷完300首歌，一个账号平均耗时为1分钟左右。放在服务器运行即可不需要人工干预，每天自动听歌做任务，向你的微信发送任务通知，支持无服务器的云函数部署。api接口项目地址：[https://github.com/ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api)
+调用官方接口，每天自动刷完300首歌，一个账号平均耗时为1分钟左右。放在服务器运行即可不需要人工干预，每天自动听歌做任务，向你的微信发送任务通知，支持无服务器的云函数部署。
 
 <p align="center">
     <a href="https://github.com/ZainCheung"><img alt="Author" src="https://img.shields.io/badge/author-ZainCheung-blueviolet"/></a>
